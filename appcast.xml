@@ -8,7 +8,7 @@
             <sparkle:version>55</sparkle:version>
             <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/boldmethod/assistant-editor-releases/releases/download/app-v0.2.0/AssistantEditor-0.2.0.dmg" type="application/octet-stream" length="178525114" sparkle:edSignature="k+yrkDpVuIRRUMYOc5NM09M53cMKHF8YIo+5FRupd4nKYByFTgUH9z4qFo+vI2G+MigPMNhAmpFIqNK2s7JyAQ==" length="178525114" />
+            <enclosure url="https://github.com/boldmethod/assistant-editor-releases/releases/download/app-v0.2.0/AssistantEditor-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="k+yrkDpVuIRRUMYOc5NM09M53cMKHF8YIo+5FRupd4nKYByFTgUH9z4qFo+vI2G+MigPMNhAmpFIqNK2s7JyAQ==" length="178525114" />
         </item>
     </channel>
 </rss>
