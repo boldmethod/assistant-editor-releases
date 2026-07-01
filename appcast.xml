@@ -3,6 +3,14 @@
     <channel>
         <title>Assistant Editor</title>
         <item>
+            <title>0.4.0</title>
+            <pubDate>Wed, 01 Jul 2026 00:11:15 +0000</pubDate>
+            <sparkle:version>76</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/boldmethod/assistant-editor-releases/releases/download/app-v0.4.0/AssistantEditor-0.4.0.dmg" type="application/octet-stream" sparkle:edSignature="/XFR0E3qLgo08z1AIvn7h5O+R/OM6Fv6qswVPuzJmnXY2khc6RC5o+B7HiMhR+lsYIB20WqCUH8Ip16JEWPUDA==" length="178637341" />
+        </item>
+        <item>
             <title>0.3.0</title>
             <pubDate>Tue, 30 Jun 2026 21:36:56 +0000</pubDate>
             <sparkle:version>61</sparkle:version>
