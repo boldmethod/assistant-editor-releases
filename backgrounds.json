@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "loops": [
+    {
+      "id": "dot-ripple-dark-01",
+      "class": "dark",
+      "name": "Dot Ripple — Dark",
+      "bytes": 786716484,
+      "sha256": "1c9e430849f7bd440bc1a1c45b1095400783de535e294f159a7f179b14def8fe",
+      "url": "https://github.com/boldmethod/assistant-editor-releases/releases/download/backgrounds-v1/dot-ripple-dark-01.mov"
+    },
+    {
+      "id": "dot-ripple-light-01",
+      "class": "light",
+      "name": "Dot Ripple — Light",
+      "bytes": 598853944,
+      "sha256": "0afc331937831ecf6f47922e4ecd3ab50304026c1ef355eb2f6f39067347169d",
+      "url": "https://github.com/boldmethod/assistant-editor-releases/releases/download/backgrounds-v1/dot-ripple-light-01.mov"
+    }
+  ]
+}
