@@ -10,12 +10,12 @@
       "url": "https://github.com/boldmethod/assistant-editor-releases/releases/download/backgrounds-v1/dot-ripple-dark-01.mov"
     },
     {
-      "id": "dot-ripple-light-01",
+      "id": "geometric-light-01",
       "class": "light",
-      "name": "Dot Ripple — Light",
+      "name": "Geometric - Light",
       "bytes": 598853944,
       "sha256": "0afc331937831ecf6f47922e4ecd3ab50304026c1ef355eb2f6f39067347169d",
-      "url": "https://github.com/boldmethod/assistant-editor-releases/releases/download/backgrounds-v1/dot-ripple-light-01.mov"
+      "url": "https://github.com/boldmethod/assistant-editor-releases/releases/download/backgrounds-v1/geometric-light-01.mov"
     }
   ]
 }
